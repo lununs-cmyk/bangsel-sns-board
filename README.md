@@ -1,1 +1,0 @@
-# bangsel-sns-board
