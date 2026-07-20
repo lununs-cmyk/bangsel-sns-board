@@ -1,18 +1,18 @@
 {
-  "boardTitle": "방셀 SNS 게시판",
+  "boardTitle": "Kaffe",
   "posts": [
     {
-      "name": "게시판 주인",
-      "userId": "@board_owner",
-      "date": "방금 전",
+      "name": "☆*: .｡. o(≧▽≦)o .｡.:*☆ㅋk프사",
+      "userId": "@kaff1214",
+      "date": "어느 찰나의 순간",
       "avatar": "images/sample-avatar.jpg",
-      "caption": "관리자가 GitHub에 등록한 이미지가 이 위치에 표시됩니다. #방셀",
+      "caption": "☾༺ 나는 항상 ✦별✦을 봐... 『運命』은 이미 하늘에 새겨져 있으니까... ☆彡. #별 #우주",
       "likes": 24,
       "isNew": true,
       "comments": [
         {
-          "user": "viewer01",
-          "text": "새 게시물이 올라왔네요!"
+          "user": "맘스터치제로펩시추격자",
+          "text": "대단해용"
         },
         {
           "user": "daily_feed",
